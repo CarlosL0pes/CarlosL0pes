@@ -8,7 +8,7 @@ Web developer in Javascript
 
 *   🌍  I'm based in Cluses, Haute Savoie
 *   ✉️  You can contact me at [carlos\_catax2@hotmail.com](mailto:carlos_catax2@hotmail.com)
-*   🧠  I'm learning Api & Data
+*   🧠  I'm learning React/Next.Js
 *   ⚡  swimming, going out with my family, traveling
  
  Skills 
