@@ -6,7 +6,7 @@ Web developer in Javascript
 
 "A lathe operator dreams of becoming a web developer. After leaving a web developer training course in Portugal in 2012 due to a move, my life was turned upside down. I started working as a CN lathe operator/setter and eventually as a traditional lathe operator (with cams), accumulating a total of 10 years of experience in machining. After the COVID epidemic, I decided it was time to do something and resume my training to become a web developer, the profession I wanted to pursue when I was younger. I am currently undergoing training with O'clock to learn web and mobile development in JavaScript in full stack (intensive course) in telepresence."
 
-*   🌍  I'm based in Cluses, Haute Savoie
+*   🌍  I'm based in Switzerland
 *   ✉️  You can contact me at [carlos\_catax2@hotmail.com](mailto:carlos_catax2@hotmail.com)
 *   🧠  I'm learning React/Next.Js
 *   ⚡  swimming, going out with my family, traveling
