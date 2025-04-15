@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 ---------------------------
 
-"A lathe operator dreams of becoming a web developer. After leaving a web developer school course in Portugal in 2012 due to a move, my life was turned upside down. I started working as a CNC operator/setter, accumulating a total of 10 years of experience in machining.I decided it was time to do something and resume my training to become a web developer, the profession I wanted to pursue when I was younger. I am currently undergoing training by myself for React Js, Next Js and Python for future projets."
+"A CNC operator dreams of becoming a web developer or IT worker. After leaving my web developer/IT school course in Portugal in 2012 due to a move, my life was turned upside down. I started working as a CNC operator/setter, accumulating a total of 10 years of experience in machining.I decided it was time to do something and resume my training to become a web developer, the profession I wanted to pursue when I was younger. I am currently undergoing training by myself for React Js, Next Js and Python for future projets."
 
 *   🌍  I'm based in Switzerland
 *   ✉️  You can contact me at [carlos\_catax2@hotmail.com](mailto:carlos_catax2@hotmail.com)
