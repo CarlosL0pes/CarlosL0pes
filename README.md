@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos MARQUES LOPES
 ============================================================================================================================================
 
-Web developer in Javascript
+Web developer
 ---------------------------
 
-"A lathe operator dreams of becoming a web developer. After leaving a web developer training course in Portugal in 2012 due to a move, my life was turned upside down. I started working as a CN lathe operator/setter and eventually as a traditional lathe operator (with cams), accumulating a total of 10 years of experience in machining. After the COVID epidemic, I decided it was time to do something and resume my training to become a web developer, the profession I wanted to pursue when I was younger. I am currently undergoing training with O'clock to learn web and mobile development in JavaScript in full stack (intensive course) in telepresence."
+"A lathe operator dreams of becoming a web developer. After leaving a web developer school course in Portugal in 2012 due to a move, my life was turned upside down. I started working as a CNC operator/setter, accumulating a total of 10 years of experience in machining.I decided it was time to do something and resume my training to become a web developer, the profession I wanted to pursue when I was younger. I am currently undergoing training by myself for React Js, Next Js and Python for future projets."
 
 *   🌍  I'm based in Switzerland
 *   ✉️  You can contact me at [carlos\_catax2@hotmail.com](mailto:carlos_catax2@hotmail.com)
-*   🧠  I'm learning React/Next.Js
-*   ⚡  swimming, going out with my family, traveling
+*   🧠  I'm learning React/Next.Js & Python
+*   ⚡  Chilling with my family, traveling, playing video games, watching TV and listening to music
  
  Skills 
 <p align="left">
